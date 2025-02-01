@@ -38,7 +38,7 @@ st.markdown(
 )
 
 # Application Title
-st.title(":blue[AI VIJAY ASSIST]")
+st.title(":blue[Vision Assist]")
 
 # Function Definitions
 def extract_text(image):
